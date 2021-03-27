@@ -1,4 +1,9 @@
-# ljh_study_record
+# 📜STUDY_RECORD📜
+---
+- 2021/03/27 Repository 생성
+- 기존의 algorithm-study-1d1solve의 study-record를 대체
+- 이전의 기록은 Old/study-record@@@@.md
+---
 
 ## 2021/03
 
