@@ -59,5 +59,5 @@
 |21/03/25| 알고리즘 이론 | 동적 계획법 (Dynamic Programming) | 🎒 **0-1 Knapsack 문제** 복습 및 노션에 정리 |
 ||BOJ 7579| 동적 계획법 (Dynamic Programming) | 0-1 Knapsack |
 |21/03/26|BOJ 2629| 동적 계획법 (Dynamic Programming) | 0-1 Knapsack 문제, 블로그 풀이 📖 |
-|21/03/27|소켓 프로그래밍| C++ 소켓 프로그래밍 기초 (용어, 함수 등) | 노션에 정리🖋 |
+|21/03/27|소켓 프로그래밍| 소켓 통신 기본, Winsock2  | 노션에 정리🖋 |
 </div>
