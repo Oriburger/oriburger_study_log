@@ -60,4 +60,5 @@
 ||BOJ 7579| 동적 계획법 (Dynamic Programming) | 0-1 Knapsack |
 |21/03/26|BOJ 2629| 동적 계획법 (Dynamic Programming) | 0-1 Knapsack 문제, 블로그 풀이 📖 |
 |21/03/27|소켓 프로그래밍| 소켓 통신 기본, Winsock2  | 노션에 정리🖋 |
+|21/03/27|BOJ 17845| 동적 계획법 (Dynamic Programming) | 0-1 Knapsack🎒, 풀이 포스팅🎞 |
 </div>
