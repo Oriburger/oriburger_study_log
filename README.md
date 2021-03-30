@@ -66,4 +66,5 @@
 |21/03/29|시스템 프로그래밍|멀티 스레드 (Multithread) |복습|
 ||코드 수정|Oriburger/cpp-chat| - |
 |21/03/30|알고리즘 이론| 동적 계획법 (Dynamic Programming) | LIS(Longest Increasing Subsequence) 복습, 실제 해 구하기 (nlogn)|
+||(re)BOJ 14002| 동적 계획법 (Dynamic Programming) | - |
 </div>
