@@ -67,4 +67,5 @@
 ||코드 수정|Oriburger/cpp-chat| - |
 |21/03/30|알고리즘 이론| 동적 계획법 (Dynamic Programming) | LIS 복습, 실제 해 도출(n^2), 블로그 포스팅 내용 추가|
 ||(re)BOJ 14002| 동적 계획법 (Dynamic Programming) | - |
+|21/03/31|알고리즘 이론| 동적 계획법 (Dynamic Programming) | LIS 복습, 사지방 자리 놓침..; |
 </div>
