@@ -14,5 +14,6 @@
 |21/04/01|이론 공부 | 동적계획법 (Dynamic Programming) | LIS 실제 경로 출력하기 (NlogN), 기존 포스팅에 내용 추가|
 ||**BOJ 14003**| 동적계획법 (Dynamic Programming) | LIS, 풀이 포스팅 😯|
 ||**BOJ 2568**| 동적계획법 (Dynamic Programming) | LIS |
-|21/04/02|이론 공부 | 소켓 프로그래밍 (Socket Programming) | Winsock2에서의 멀티플렉싱 |
+|21/04/02|이론 공부 | 소켓 프로그래밍 (Socket Programming) | Winsock2에서의 멀티플렉싱, 노션에 정리📃 |
+||||ㄴ> 어렵네😅|
 
