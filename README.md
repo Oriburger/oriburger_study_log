@@ -16,5 +16,5 @@
 ||**BOJ 2568**| 동적계획법 (Dynamic Programming) | LIS |
 |21/04/02|이론 공부 | 소켓 프로그래밍 (Socket Programming) | Winsock2에서의 멀티플렉싱, 노션에 정리📃 |
 ||||ㄴ> 어렵네😅|
-|21/04/02||||
+|21/04/02|**BOJ 2532**|동적계획법 (Dynamic Programming) | LIS(NlogN) |
 
