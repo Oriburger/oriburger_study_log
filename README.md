@@ -11,10 +11,10 @@
 
 |날짜|내용|분류|비고|
 |----:|:----|:----|:----|
-|21/04/01|이론 공부 | 동적계획법 (Dynamic Programming) | LIS 실제 경로 출력하기 (NlogN), 기존 포스팅에 내용 추가|
-||**BOJ 14003**| 동적계획법 (Dynamic Programming) | LIS, 풀이 포스팅 😯|
-||**BOJ 2568**| 동적계획법 (Dynamic Programming) | LIS |
+|21/04/01|이론 공부 | 이분 탐색 (Binary Search)) | LIS 실제 경로 출력하기 (NlogN), 기존 포스팅에 내용 추가|
+||**BOJ 14003**| 이분 탐색 (Binary Search) | LIS, 풀이 포스팅 😯|
+||**BOJ 2568**| 이분 탐색 (Binary Search) | LIS |
 |21/04/02|이론 공부 | 소켓 프로그래밍 (Socket Programming) | Winsock2에서의 멀티플렉싱, 노션에 정리📃 |
 ||||ㄴ> 어렵네😅|
-|21/04/03|**BOJ 2532**|동적계획법 (Dynamic Programming) | LIS(NlogN), 블로그 포스팅😶 |
+|21/04/03|**BOJ 2532**| 이분 탐색 (Binary Search) | LIS(NlogN), 블로그 포스팅😶 |
 
