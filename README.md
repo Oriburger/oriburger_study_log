@@ -19,4 +19,4 @@
 |21/04/03|**BOJ 2532**| 이분 탐색 (Binary Search) | LIS(NlogN), 블로그 포스팅😶 |
 |21/04/04|이론 공부| 소켓 프로그래밍 (Socket Programming) | 연습용 프로젝트 - **"cpp-chat💬"** |
 |21/04/05|BOJ 1818| 이분 탐색 (Binary Search) | LIS(NlogN), 풀이 포스팅🎓 |
-||*BOJ 10651 (~ing)*| 이분 탐색 (Binary Search) | LIS(NlogN) |
+||**[⭐]BOJ 10651**| 이분 탐색 (Binary Search) | LIS(NlogN) |
