@@ -20,4 +20,4 @@
 |21/04/04|이론 공부| 소켓 프로그래밍 (Socket Programming) | 연습용 프로젝트 - **"cpp-chat💬"** |
 |21/04/05|BOJ 1818| 이분 탐색 (Binary Search) | LIS(NlogN), 풀이 포스팅🎓 |
 ||**[⭐]BOJ 10651**| 이분 탐색 (Binary Search) | LIS(NlogN) |
-|21/04/06|*PG 추석 트래픽(~ing)*| 문자열, 구현 | - |
+|21/04/06|PG 추석 트래픽| 문자열, 구현 | 스파게티 코드🍝 |
