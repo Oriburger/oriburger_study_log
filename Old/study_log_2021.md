@@ -214,7 +214,7 @@
 ||(re)BOJ 14002| 동적 계획법 (Dynamic Programming) | - |
 |21/03/31|알고리즘 이론| 동적 계획법 (Dynamic Programming) | LIS 복습, 사지방 자리 놓침..; |
 </div>
-
+</details>
 ---
 
 ## 2021/04
