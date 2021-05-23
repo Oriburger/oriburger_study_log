@@ -41,4 +41,5 @@
 |21/05/22|이론 공부|공부 내용 노션에 마저 정리🍖|5장 마무리 + 6장. |
 ||Toy Project|**cli_bubble_pop🎈** | - |
 |21/05/23|PG 구명보트|그리디| 블로그 풀이 포스팅🤴 |
+||Toy Project|**cli_bubble_pop🎈** |  |
 </div>
