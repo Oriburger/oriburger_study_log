@@ -31,4 +31,5 @@
 |21/06/12|이론 공부|윈도우 프로그래밍|쓰레드의 생성과 소멸(2)|
 ||ㄴ>| - |노션에 정리 (~11장)|
 ||Toy Project|cli_bubble_pop🎈|*소켓 통신(~ing)*|
+|21/06/13|Toy Project|cli_bubble_pop🎈| - |
 </div>
