@@ -32,5 +32,5 @@
 ||ㄴ>| - |노션에 정리 (~11장)|
 ||Toy Project|cli_bubble_pop🎈|*소켓 통신(~ing)*|
 |21/06/13|Toy Project|cli_bubble_pop🎈| - |
-|21/06/14||||
+|21/06/14|PG 오픈채팅방|문자열|블로그 풀이|
 </div>
