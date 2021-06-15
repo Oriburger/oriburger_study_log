@@ -35,5 +35,5 @@
 |21/06/14|PG 오픈채팅방|문자열|블로그 풀이|
 ||이론 공부|윈도우 프로그래밍|쓰레드 동기화 기법(1)|
 ||Toy Project|cli_bubble_pop🎈|*쓰레드 동기화 적용(~ing)*|
-|21/06/15||||
+|21/06/15|Toy Project|cli_bubble_pop🎈|*mutex 활용한 동기화 적용 (~ing)*|
 </div>
