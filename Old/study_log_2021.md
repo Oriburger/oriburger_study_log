@@ -325,7 +325,8 @@
 ---
 
 ## 2021/06
-
+<details value="보기">
+<summary>자세히</summary>
 <div markdown="1">
 
 |날짜|분류|내용|비고|
