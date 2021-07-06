@@ -21,5 +21,5 @@
 ||*BOJ 20667(~ing)*|DP, 0-1 Knapsack| - |
 |21/07/05|**BOJ 20667**|DP, 0-1 Knapsack| 블로그 풀이  |
 ||BOJ 3085(re)|완전 탐색|-|
-|21/07/06|*BOJ 10819(~ing)*|DP, 0-1 Knapsack||
+|21/07/06|*BOJ 12920(~ing)*|DP, 0-1 Knapsack||
 </div>
