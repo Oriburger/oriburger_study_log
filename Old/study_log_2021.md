@@ -388,6 +388,7 @@
 <details>
 <summary>자세히</summary>
 <div markdown="1">
+ 
 |날짜|분류|내용|비고|
 |----:|:----|:----|:----|
 |21/07/01|PG JadenCase|문자열| - |
