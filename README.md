@@ -20,5 +20,5 @@
 |21/08/07|PG 휴대폰 번호 가리기|날먹||
 |21/08/08|BOJ 14916|DP 기초|[풀이 포스팅](https://oriburger.tistory.com/entry/PSDP-14916-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)🔪|
 ||BOJ 9177|BFS|[풀이 포스팅](https://oriburger.tistory.com/entry/PSBFS-BOJ-9177-%EB%8B%A8%EC%96%B4-%EC%84%9E%EA%B8%B0)⚔|
-
+|21/08/09|BOJ 9764|DP 기초|-|
 </div>
