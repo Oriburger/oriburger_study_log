@@ -24,8 +24,8 @@
 |21/08/10|PG 위클리 챌린지 2주차|기초|-|
 |21/08/11|PG 콜라츠 추측|날먹|부산|
 |21/08/12|PG 문자열 정수로 바꾸기|날먹|부산|
-|21/08/13|BOJ 17478|재귀|-|
-||BOJ 17479|자료구조|~~*아니문제를제대로읽으라고*~~|
-||BOJ 17484|완전탐색||
-||BOJ 17485|DP 기초||
+|21/08/13|BOJ 17478|재귀|[풀이 포스팅](https://oriburger.tistory.com/entry/PS%EC%9E%AC%EA%B7%80-BOJ-17478-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80-%EB%AD%94%EA%B0%80%EC%9A%94)|
+||BOJ 17479|자료구조|~~*아니문제를제대로읽으라고*~~ [풀이](https://oriburger.tistory.com/entry/PS%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-BOJ-17479-%EC%A0%95%EC%8B%9D%EB%8B%B9)|
+||BOJ 17484|완전탐색|[풀이 포스팅](https://oriburger.tistory.com/entry/PS%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-BOJ-17484-%EC%A7%84%EC%9A%B0%EC%9D%98-%EB%8B%AC-%EC%97%AC%ED%96%89Small)|
+||BOJ 17485|DP 기초|[풀이 포스팅](https://oriburger.tistory.com/entry/PSDP-BOJ-17485-%EC%A7%84%EC%9A%B0%EC%9D%98-%EB%8B%AC-%EC%97%AC%ED%96%89Large)|
 </div>
