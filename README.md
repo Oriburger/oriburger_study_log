@@ -28,4 +28,6 @@
 ||BOJ 17479|자료구조|~~*아니문제를제대로읽으라고*~~  / [풀이](https://oriburger.tistory.com/entry/PS%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-BOJ-17479-%EC%A0%95%EC%8B%9D%EB%8B%B9)|
 ||BOJ 17484|완전탐색|[풀이 포스팅](https://oriburger.tistory.com/entry/PS%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-BOJ-17484-%EC%A7%84%EC%9A%B0%EC%9D%98-%EB%8B%AC-%EC%97%AC%ED%96%89Small)|
 ||BOJ 17485|DP 기초|[풀이 포스팅](https://oriburger.tistory.com/entry/PSDP-BOJ-17485-%EC%A7%84%EC%9A%B0%EC%9D%98-%EB%8B%AC-%EC%97%AC%ED%96%89Large)|
+|21/08/14|BOJ 17480|구현, 완전탐색|[풀이 포스팅!](https://oriburger.tistory.com/entry/PS%EA%B5%AC%ED%98%84-BOJ-17480-%EA%B0%9C%EA%B5%AC%EC%9F%81%EC%9D%B4-%EC%A4%80%EC%84%9D%EC%9D%B4)|
+||Udemy UE4 강좌|(1) 개요|-|
 </div>
