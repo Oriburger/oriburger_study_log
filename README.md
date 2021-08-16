@@ -30,5 +30,5 @@
 |21/08/14|BOJ 17480|구현, 완전탐색|[풀이 포스팅!](https://oriburger.tistory.com/entry/PS%EA%B5%AC%ED%98%84-BOJ-17480-%EA%B0%9C%EA%B5%AC%EC%9F%81%EC%9D%B4-%EC%A4%80%EC%84%9D%EC%9D%B4)|
 ||Udemy UE4 강좌|(1) 개요|-|
 |21/08/15|BOJ 1079|백트래킹|[풀이 포스팅🖋](https://oriburger.tistory.com/entry/PS%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-BOJ-1079-%EB%A7%88%ED%94%BC%EC%95%84)|
-|21/08/16|대회👑|이븐아이 게임톤 OT|-|
+|21/08/16|대회👑|이븐아이 게임톤 OT|+아이디어 회의|
 </div>
