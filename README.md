@@ -34,6 +34,8 @@
 |21/08/17|UE4|게임 모드 클래스|[Notion](https://oriburger.notion.site/1-cec082b238c04464be4237d398d4ebc1)|
 ||UE4|*C++ 발사체 구현(~ing)*|[Notion](https://oriburger.notion.site/6a4a81ec01ba4272a29b57ee4835c463)|
 ||UE4|플레이어 Pawn의 이동|[Notion](https://oriburger.notion.site/1-cec082b238c04464be4237d398d4ebc1)|
-|21/08/18|대회👑|이븐아이 게임톤|기획 발표(1) & 피드백|
+|21/08/18|대회👑|이븐아이 게임톤|기획 발표 준비 & 피드백|
 ||UE4|1인칭 플레이어|[Notion](https://oriburger.notion.site/1-cec082b238c04464be4237d398d4ebc1)|
+|21/08/19|대회👑|이븐아이 게임톤|기획 발표 피드백, 회의|
+||UE4|1인칭 플레이어, |[Notion](https://oriburger.notion.site/1-cec082b238c04464be4237d398d4ebc1)|
 </div>
