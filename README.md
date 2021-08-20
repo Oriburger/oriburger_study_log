@@ -38,4 +38,6 @@
 ||UE4|1인칭 플레이어|[Notion](https://oriburger.notion.site/1-cec082b238c04464be4237d398d4ebc1)|
 |21/08/19|대회👑|이븐아이 게임톤|기획 발표 피드백, 회의|
 ||UE4|1인칭 플레이어, |[Notion](https://oriburger.notion.site/1-cec082b238c04464be4237d398d4ebc1)|
+|21/08/20|대회👑|이븐아이 게임톤|회의|
+||UE4|3인칭 카메라, 이동 구현|[Notion 정리!](https://www.notion.so/oriburger/Top-Down-9defbdc29d4841cdad6efb35e9448d2b)|
 </div>
