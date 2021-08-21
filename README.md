@@ -41,5 +41,5 @@
 |21/08/20|대회👑|이븐아이 게임톤|회의, 아이디에이션|
 ||UE4|3인칭 Top-Down 뷰, 이동 구현|[Notion 정리!](https://www.notion.so/oriburger/Top-Down-9defbdc29d4841cdad6efb35e9448d2b)|
 |21/08/21|대회👑|이븐아이 게임톤|컨설팅 & 개발 회의 등|
-||UE4|3인칭 Sprint, Roll 구현|[Notion](https://www.notion.so/oriburger/Sprint-Roll-6aca181fc29b4d7994ab55926bdba615)|
+||UE4|3인칭 Sprint, Roll 구현|[Notion](https://oriburger.notion.site/Sprint-Roll-6aca181fc29b4d7994ab55926bdba615)|
 </div>
