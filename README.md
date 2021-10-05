@@ -16,5 +16,5 @@
 |21/10/04|UE4|애니메이션 리타게팅|[노션](https://oriburger.notion.site/d23df07297194d5bbbc40d4c95adda13)에 정리|
 ||PG 합승 택시..|플로이드-워셜|[풀이 링크📜](https://blog.naver.com/uss425/222526376914)|
 |21/10/05|게임톤|프로젝트 경량화|구글 플레이 업로드,,|
-||PG 전력망 둘로..|DFS|-|
+||PG 전력망 둘로..|DFS|[풀이 링크🪂](https://blog.naver.com/uss425/222527346839)|
 </div>
