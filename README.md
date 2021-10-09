@@ -22,4 +22,7 @@
 |21/10/07|C++|문법 복습(클래스 등)|-|
 ||PG 야근 지수|우선순위-큐|-|
 |21/10/08|UE4|액터 생성 과정 등|노션에 정리[1](https://www.notion.so/oriburger/3-Back-bfcfd232c20b4bc2ad59e4d9f6225f3d),[2](https://www.notion.so/oriburger/UPROPERTY-UFUNCTION-cc1d70eafbf24c678fac42c154ea5b09),[3](https://www.notion.so/oriburger/2607c7c236974bdc87347b81c7b73d1b)|
+|21/10/09|PG 최소 직사각형|기초|-|
+||PG 복서 정렬하기|정렬|-|
+||C++|문법 복습(String 클래스 구현 등)|-|
 </div>
