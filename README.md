@@ -32,4 +32,5 @@
 |21/10/13|PG 최댓값과 최솟값|구현|-|
 ||*PG 여행경로(~ing)*|그래프 탐색|-|
 |21/10/14|PG 여행경로|그래프, 백트래킹|[블로그 풀이📜](https://blog.naver.com/uss425/222536626913)|
+||UE4|소켓, 무기 부착 등|[Notion](https://oriburger.notion.site/TPS-314e4b7a46b44c37a68e3291e67216d3)|
 </div>
