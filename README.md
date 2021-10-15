@@ -35,6 +35,7 @@
 ||UE4|스켈레탈 메시 소켓 등|[Notion](https://oriburger.notion.site/TPS-314e4b7a46b44c37a68e3291e67216d3)|
 |21/10/15|PG 2xn 타일링|DP 기초|-|
 ||UE4|BP vs C++와의 비교|[Notion](https://oriburger.notion.site/BP-C-4967fe423b55484c8f93e0b51db92e10)에 정리|
+||공부|10월 상반기 회고 작성|-|
 <!--
 |21/10/16|PG 올바른 괄호|스택 기초|-|
 |21/10/17|PG 정수 삼각형|DP 기초|-|
