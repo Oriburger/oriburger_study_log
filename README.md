@@ -32,5 +32,11 @@
 |21/10/13|PG 최댓값과 최솟값|구현|-|
 ||*PG 여행경로(~ing)*|그래프 탐색|-|
 |21/10/14|PG 여행경로|그래프, 백트래킹|[블로그 풀이📜](https://blog.naver.com/uss425/222536626913)|
-||UE4|소켓, 무기 부착 등|[Notion](https://oriburger.notion.site/TPS-314e4b7a46b44c37a68e3291e67216d3)|
+||UE4|스켈레탈 메시 소켓 등|[Notion](https://oriburger.notion.site/TPS-314e4b7a46b44c37a68e3291e67216d3)|
+|21/10/15|PG 2xn 타일링|DP 기초|-|
+||UE4|BP vs C++와의 비교|[Notion](https://oriburger.notion.site/BP-C-4967fe423b55484c8f93e0b51db92e10)에 정리|
+<!--
+|21/10/16|PG 올바른 괄호|스택 기초|-|
+|21/10/17|PG 정수 삼각형|DP 기초|-|
+-->
 </div>
