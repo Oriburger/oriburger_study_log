@@ -46,5 +46,6 @@
 ||C++|문법 복습|[explicit, mutable](https://www.notion.so/oriburger/explicit-mutable-bcae3cdd11b24251a81fcac79161fe69)|
 |21/10/23|C++|문법 복습|[연산자 오버로딩(1)](https://www.notion.so/oriburger/1-930a5744f33442ccb1cdc72815a7ff4f)|
 |21/10/24|BOJ 2607|구현|재채점,,|
-||BOJ 4803|Union-Find|재채점😒|
+||BOJ 4803|Union-Find|재채점😒, [사이클 탐지](https://www.notion.so/oriburger/4-3-115565a6168841bb8cc6297a10bbf9b0)|
+|
 </div>
