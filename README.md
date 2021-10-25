@@ -48,4 +48,7 @@
 |21/10/24|BOJ 2607|구현|재채점,,|
 ||BOJ 4803|Union-Find|재채점😒, [사이클 탐지](https://www.notion.so/oriburger/4-3-115565a6168841bb8cc6297a10bbf9b0)|
 ||C++|문법 복습|[연산자 오버로딩(2)](https://www.notion.so/oriburger/2-friend-53853e248dd14105b656938bb9d13a72)|
+|21/10/25|게임톤|문서|-|
+||UE4|게임톤 코드 리뷰 : csv 파일 읽기|[Notion🐱‍💻](https://www.notion.so/oriburger/csv-a83ed219d59845ed92667ef5d9b7aa67)|
+||C++|문법 복습|어렵네...🙄|
 </div>
