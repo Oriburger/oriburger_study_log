@@ -51,4 +51,5 @@
 |21/10/25|게임톤|문서|-|
 ||UE4|게임톤 코드 리뷰 : csv 파일 읽기|[Notion🐱‍💻](https://oriburger.notion.site/csv-a83ed219d59845ed92667ef5d9b7aa67)|
 ||C++|문법 복습|어렵네...🙄|
+|21/10/26|PG 피로도|비트필드DP|[블로그 풀이👍](https://blog.naver.com/uss425/222548666888)|
 </div>
