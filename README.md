@@ -55,5 +55,5 @@
 |21/10/27|*PG 기둥과~*|구현|-|
 ||UE4|게임톤 코드 리뷰 : 도트 데미지|[Notion😁](https://oriburger.notion.site/71518440e55847b78632cc67e54aa72f)|
 |21/10/28|PG 기둥과 보 설치|구현|[블로그 풀이🧱](https://blog.naver.com/uss425/222551067111)|
-||UE4|게임톤 코드 리뷰 : 플로팅 데미지 이펙트|[Notion😁](https://oriburger.notion.site/3115501e829741eb92ed5bd2aa51c50b)|
+||UE4|게임톤 코드 리뷰 : 플로팅 데미지 이펙트|[Notion](https://oriburger.notion.site/3115501e829741eb92ed5bd2aa51c50b)|
 </div>
