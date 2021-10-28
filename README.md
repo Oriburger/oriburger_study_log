@@ -54,4 +54,5 @@
 |21/10/26|PG 피로도|비트필드DP|[블로그 풀이👍](https://blog.naver.com/uss425/222548666888)|
 |21/10/27|*PG 기둥과~*|구현|-|
 ||UE4|게임톤 코드 리뷰 : 도트 데미지|[Notion😁](https://oriburger.notion.site/71518440e55847b78632cc67e54aa72f)|
+|21/10/28|PG 기둥과 보 설치|구현|[블로그 풀이🧱](https://blog.naver.com/uss425/222551067111)|
 </div>
