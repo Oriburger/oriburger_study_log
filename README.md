@@ -56,4 +56,7 @@
 ||UE4|게임톤 코드 리뷰 : 도트 데미지|[Notion😁](https://oriburger.notion.site/71518440e55847b78632cc67e54aa72f)|
 |21/10/28|PG 기둥과 보 설치|구현|[블로그 풀이🧱](https://blog.naver.com/uss425/222551067111)|
 ||UE4|게임톤 코드 리뷰 : 플로팅 데미지 이펙트|[Notion](https://oriburger.notion.site/3115501e829741eb92ed5bd2aa51c50b)|
+|21/10/29|게임톤|문서|-|
+||UE4|8방향 이동 애니메이션|[Notion🚶‍♂️](https://oriburger.notion.site/8-75b49665b1134a42ae104a043c87f542)|
+||UE4|*TPS Aiming System(~ing)*|[Notion☠️](https://oriburger.notion.site/TPS-ing-3204e7ab49d0444ea5720c006405a6af)|
 </div>
