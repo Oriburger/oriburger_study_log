@@ -59,4 +59,5 @@
 |21/10/29|게임톤|문서|-|
 ||UE4|8방향 이동 애니메이션|[Notion🚶‍♂️](https://oriburger.notion.site/8-75b49665b1134a42ae104a043c87f542)|
 ||UE4|*TPS Aiming System(~ing)*|[Notion☠️](https://oriburger.notion.site/TPS-ing-3204e7ab49d0444ea5720c006405a6af)|
+|21/10/30|PG 약수의 개수 덧셈|기초|시골🚘|
 </div>
