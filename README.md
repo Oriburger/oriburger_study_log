@@ -11,5 +11,5 @@
 |날짜|분류|내용|비고|
 |----|:----|:----|:----|
 |21/11/01|C++|문법 복습(상속, protected 등)|[노션에 정리](https://oriburger.notion.site/Inheritance-812902a6ecc143ba8fb62ddb3a0d3390)|
-||||
+||공부|10월 하반기 회고 작성|[링크](https://blog.naver.com/uss425/222555113882)|
 </div>
