@@ -17,6 +17,7 @@
 |21/11/04|UE4|조준 애니메이션, 에임 오프셋 등 추가|[노션에 정리🤖](https://oriburger.notion.site/TPS-3204e7ab49d0444ea5720c006405a6af), 에임 오프셋은 아직,,|
 |21/11/05|BOJ 10830|분할정복|[블로그 풀이📔](https://blog.naver.com/uss425/222559378922)|
 ||C++|문법 복습(가상 소멸자, 다중 상속 등)|[노션에 정리📙](https://oriburger.notion.site/14-5c332ce2cec14832bf4d24484999cf0d)|
+|21/11/05|UE4|FABRIK 활용한 본-무기 일체화|[노션에 정리📄](https://oriburger.notion.site/FABRIK-16f6be7aa18a4177b035589cb60b6d3d), 수박겉햝기..|
 </div>
 
 <!--
