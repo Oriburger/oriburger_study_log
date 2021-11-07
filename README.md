@@ -19,7 +19,7 @@
 ||C++|문법 복습(가상 소멸자, 다중 상속 등)|[노션에 정리📙](https://oriburger.notion.site/14-5c332ce2cec14832bf4d24484999cf0d)|
 |21/11/06|UE4|FABRIK 활용한 본-무기 일체화|[노션에 정리📄](https://oriburger.notion.site/FABRIK-16f6be7aa18a4177b035589cb60b6d3d), 수박겉햝기..|
 |21/11/07|C++|문법 복습 / 새로운 내용(스트림 클래스)|[노션에 정리](https://www.notion.so/oriburger/15-C-I-O-istream-ostream-9cae5265b3754df18be5117cc4882abf)|
-||C++|cli_bubble_pop|Cpp 문법 적용(~ing), 내가 짠 코드가 맞나..|
+||C++|[cli_bubble_pop🎈](https://github.com/Oriburger/toy_project___cli_bubble_pop)|Cpp 문법 적용(~ing), 내가 짠 코드가 맞나..|
 </div>
 
 <!--
