@@ -20,6 +20,7 @@
 |21/11/06|UE4|FABRIK 활용한 본-무기 일체화|[노션에 정리📄](https://oriburger.notion.site/FABRIK-16f6be7aa18a4177b035589cb60b6d3d), 수박겉햝기..|
 |21/11/07|C++|문법 복습 / 새로운 내용(스트림 클래스)|[노션에 정리](https://www.notion.so/oriburger/15-C-I-O-istream-ostream-9cae5265b3754df18be5117cc4882abf)|
 ||C++|[cli_bubble_pop🎈](https://github.com/Oriburger/toy_project___cli_bubble_pop)|Cpp 문법 적용(~ing), 내가 짠 코드가 맞나..|
+|21/11/08|BOJ 11003|우선순위 큐|[블로그 풀이📗](https://blog.naver.com/uss425/222561831663)|
 </div>
 
 <!--
