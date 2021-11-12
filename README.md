@@ -25,6 +25,7 @@
 ||UE4|점프 구현|[노션에 정리📃](https://oriburger.notion.site/Jump-673c7df35e814f3295150c82498bc15a)|
 |21/11/10|PG 다트게임|구현|-|
 |21/11/11|PG 예산|기초|알바,,😶|
+|21/11/12|C++|fstream 등|[노션에 정리📚](https://oriburger.notion.site/16-C-294d0e19e756415ca4eeeeeb7f765739), 식도염 너무 힘드네🥲|
 </div>
 
 <!--
