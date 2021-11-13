@@ -26,7 +26,8 @@
 |21/11/10|PG 다트게임|구현|-|
 |21/11/11|PG 예산|기초|알바,,😶|
 |21/11/12|C++|fstream 등|[노션에 정리📚](https://oriburger.notion.site/16-C-294d0e19e756415ca4eeeeeb7f765739), 식도염 너무 힘드네🥲|
-|21/11/13|C++|[cli_bubble_pop🎈](https://github.com/Oriburger/toy_project___cli_bubble_pop)|Cpp 문법 적용, [Thread 관련 내용 정리](https://www.notion.so/oriburger/std-thread-87c1a77b2ef44af1a819b541c3e99ef8)|
+|21/11/13|C++|[cli_bubble_pop🎈](https://github.com/Oriburger/toy_project___cli_bubble_pop)|Cpp 문법 적용, [Thread 관련 내용 정리📃](https://www.notion.so/oriburger/std-thread-87c1a77b2ef44af1a819b541c3e99ef8)|
+||BOJ 14442|BFS|[블로그 풀이📘](https://blog.naver.com/uss425/222567111344)|
 </div>
 
 <!--
