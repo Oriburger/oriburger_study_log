@@ -31,7 +31,7 @@
 |21/11/14|BOJ 16933|BFS|[블로그 풀이📙](https://blog.naver.com/uss425/222567740430)|
 ||UE4|토이 프로젝트|아이디어 테스트 등|
 |21/11/15|UE4|아이디어 테스트, 애니메이션|무한 길 생성, [UpperBody 블렌딩](https://oriburger.notion.site/Upperbody-f6b495b8121c474785d973bc2fed3320)|
-||공부|11월 상반기 회고 작성|[링크]()|
+||공부|11월 상반기 회고 작성|[링크](https://blog.naver.com/uss425/222568967614)|
 </div>
 
 <!--
