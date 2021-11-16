@@ -32,6 +32,8 @@
 ||UE4|토이 프로젝트|아이디어 테스트 등|
 |21/11/15|UE4|아이디어 테스트, 애니메이션|무한 길 생성, [UpperBody 블렌딩](https://oriburger.notion.site/Upperbody-f6b495b8121c474785d973bc2fed3320)|
 ||공부|11월 상반기 회고 작성|[링크](https://blog.naver.com/uss425/222568967614)|
+|21/11/16|C++|기본 문법서 정독|-|
+||C++11|Copy Elision, r-val reference|[노션에 정리📒](https://oriburger.notion.site/r-value-reference-b50e7f66ab2c400292be77cdc72f462a)|
 </div>
 
 <!--
