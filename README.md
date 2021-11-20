@@ -34,13 +34,12 @@
 ||공부|11월 상반기 회고 작성|[링크](https://blog.naver.com/uss425/222568967614)|
 |21/11/16|C++|기본 문법서 정독|-|
 ||C++11|Copy Elision, r-val reference|[노션에 정리📒](https://oriburger.notion.site/r-value-reference-b50e7f66ab2c400292be77cdc72f462a)|
-|21/11/17|PG 나머지가 1..|기초||
-|21/11/18|PG 나누어 떨..|기초||
+|21/11/17|PG 나머지가 1..|기초|여행 시작!|
+|21/11/18|PG 나누어 떨..|기초| ~ |
+|21/11/19|PG 가운데 글자|기초|여행 끝|
 </div>
 
 <!--
-|21/11/19|PG 가운데 글자|기초|https://programmers.co.kr/learn/courses/30/lessons/12903|
-
 
 - 📔📚📙📘📗📒📃📜📄📑
 
