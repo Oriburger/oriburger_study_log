@@ -34,6 +34,7 @@
 ||공부|11월 상반기 회고 작성|[링크](https://blog.naver.com/uss425/222568967614)|
 |21/11/16|C++|기본 문법서 정독|-|
 ||C++11|Copy Elision, r-val reference|[노션에 정리📒](https://oriburger.notion.site/r-value-reference-b50e7f66ab2c400292be77cdc72f462a)|
+|21/11/17|UE4|토이 프로젝트|무한 길 C++ 테스트(~ing)|
 |21/11/18|PG 나머지가 1..|기초|G-STAR 2021|
 |21/11/19|PG 나누어 떨..|기초|피곤..|
 |21/11/20|PG 가운데 글자|기초|놀이동산|
