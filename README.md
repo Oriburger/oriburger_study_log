@@ -40,6 +40,7 @@
 |21/11/20|PG 가운데 글자|기초|놀이동산|
 ||UE4|Sprint/Roll|+Root Motion Docs 읽기, [블로그 포스팅](https://blog.naver.com/uss425/222574017403)|
 |21/11/21|C++11|RAII 패턴과 unique_ptr(~ing)|-|
+|21/11/22|C++11,14|unique_ptr 활용|[Notion📚](https://oriburger.notion.site/unique_ptr-83ae1a8895b64d579ec04096843cc0c6)|
 </div>
 
 <!--
