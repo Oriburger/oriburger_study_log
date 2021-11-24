@@ -42,6 +42,7 @@
 |21/11/21|C++11|RAII 패턴과 unique_ptr(~ing)|-|
 |21/11/22|C++11,14|unique_ptr 활용|[Notion📚](https://oriburger.notion.site/unique_ptr-83ae1a8895b64d579ec04096843cc0c6)|
 |21/11/23|PG 디스크 컨트롤러|Min Heap|[블로그 풀이](https://blog.naver.com/uss425/222576621968)|
+|21/11/24|UE4|토이 프로젝트|Tile Generator 클래스 생성, Tile 생성 매커니즘 변경 등|
 </div>
 
 <!--
