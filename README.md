@@ -43,6 +43,7 @@
 |21/11/22|C++11,14|unique_ptr 활용|[Notion📚](https://oriburger.notion.site/unique_ptr-83ae1a8895b64d579ec04096843cc0c6)|
 |21/11/23|PG 디스크 컨트롤러|Min Heap|[블로그 풀이](https://blog.naver.com/uss425/222576621968)|
 |21/11/24|UE4|토이 프로젝트|Tile Generator 클래스 생성 등|
+|21/11/25|UE4|토이 프로젝트|Tile Generator 크래시 수정, 캐릭터 변경(~ing) 등|
 </div>
 
 <!--
