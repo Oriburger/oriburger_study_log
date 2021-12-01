@@ -674,7 +674,6 @@
 |21/11/28|PG 문자열 다루기~|기초|김장 끝..|
 |21/11/29|PG 단속 카메라|그리디|[블로그 풀이📔](https://blog.naver.com/uss425/222581940106)|
 |21/11/30|UE4|토이 프로젝트|캐릭터 변경, [Bullet 클래스 및 Fire 구현](https://oriburger.notion.site/PLUS-8831ad411b56411b88bf08b794c8be08) 등|
-|21/12/01|공부|11월 하반기 회고 작성|[링크](https://blog.naver.com/uss425/222583789105)|
  
 </div>
 </details>
