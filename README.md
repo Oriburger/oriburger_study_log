@@ -16,6 +16,7 @@
 |21/12/03|UE4|토이 프로젝트|타일 생성 로직 수정, 타일 추가 등|
 |21/12/04|UE4|토이 프로젝트|발소리 임시 구현 등|
 |21/12/05|C++11|shared_ptr, weak_ptr 등|[Notion📚](https://oriburger.notion.site/shared_ptr-weak_ptr-5677865e576a458691afc82c36850e90)|
+|21/12/06|PG 문자열 내림~|기초|-|
 </div>
 
 <!--
