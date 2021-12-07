@@ -18,6 +18,7 @@
 |21/12/05|C++11|shared_ptr, weak_ptr 등|[Notion📚](https://oriburger.notion.site/shared_ptr-weak_ptr-5677865e576a458691afc82c36850e90)|
 |21/12/06|PG 문자열 내림~|기초|-|
 |21/12/07|BOJ 2810|탐욕법|-|
+||BOJ 1300|이분탐색|-|
 </div>
 
 <!--
