@@ -27,7 +27,7 @@
 |21/12/11|BOJ 8980|탐욕법|[블로그 풀이📃](https://blog.naver.com/uss425/222592755773)|
 |21/12/12|BOJ 2212|탐욕법|-|
 |21/12/13|BOJ 1082|DP|[블로그 풀이](https://blog.naver.com/uss425/222594301256)|
-|||||
+||C++11,14|Type Deduction(~ing)|어렵다.., [Notion📗](https://oriburger.notion.site/Type-Deduction-3ac570dee2e34689918fe4f5094aa3e6)|
 </div>
 
 <!--
