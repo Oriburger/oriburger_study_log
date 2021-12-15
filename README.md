@@ -29,6 +29,7 @@
 |21/12/13|BOJ 1082|DP|[블로그 풀이](https://blog.naver.com/uss425/222594301256)|
 ||C++11,14|Type Deduction(~ing)|어렵다.., [Notion📗](https://oriburger.notion.site/Type-Deduction-3ac570dee2e34689918fe4f5094aa3e6)|
 |21/12/14|UE4|Mousprint🐭|타일 생성 로직 변경, [Notion📜](https://oriburger.notion.site/Mousprint-94fa53a30a514273af9dec54c3910555) 페이지 개설|
+|21/12/15|C++11,14|Type Deduction(Template)|[Notion📗](https://oriburger.notion.site/Type-Deduction-3ac570dee2e34689918fe4f5094aa3e6)|
 </div>
 
 <!--
