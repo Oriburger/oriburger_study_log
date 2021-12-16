@@ -33,6 +33,7 @@
 ||공부|12월 상반기 회고 작성|[링크](https://blog.naver.com/uss425/222596214391)|
 |21/12/16|AOJ MATCHORDER|탐욕법|-|
 ||AOJ LUNCHBOX|탐욕법|-|
+||BOJ 2476|투-포인터|[블로그 풀이📙](https://blog.naver.com/uss425/222597151673)|
 </div>
 
 <!--
