@@ -35,6 +35,7 @@
 ||AOJ LUNCHBOX|탐욕법|-|
 ||BOJ 2476|투-포인터|[블로그 풀이📙](https://blog.naver.com/uss425/222597151673)|
 |21/12/17|UE4|Mousprint🐭|발사각 교정 로직 수정(LineTrace) 등, [Notion📔](https://www.notion.so/oriburger/Linetrace-42781341c1f5400f93f24fdeef3ee83a)|
+|21/12/18|BOJ 1208|Meet In The Middle|[블로그 풀이📘](https://blog.naver.com/uss425/222598607901)|
 </div>
 
 <!--
