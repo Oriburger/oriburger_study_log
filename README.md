@@ -28,14 +28,15 @@
 |21/12/12|BOJ 2212|탐욕법|-|
 |21/12/13|BOJ 1082|DP|[블로그 풀이](https://blog.naver.com/uss425/222594301256)|
 ||C++11,14|Type Deduction(~ing)|어렵다.., [Notion📗](https://oriburger.notion.site/Type-Deduction-3ac570dee2e34689918fe4f5094aa3e6)|
-|21/12/14|UE4|Mousprint🐭|타일 생성 로직 변경, [Notion📜](https://oriburger.notion.site/Mousprint-94fa53a30a514273af9dec54c3910555) 페이지 개설|
+|21/12/14|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|타일 생성 로직 변경, [Notion📜](https://oriburger.notion.site/Mousprint-94fa53a30a514273af9dec54c3910555) 페이지 개설|
 |21/12/15|C++11,14|Type Deduction(Template)|[Notion📗](https://oriburger.notion.site/Type-Deduction-3ac570dee2e34689918fe4f5094aa3e6)|
 ||공부|12월 상반기 회고 작성|[링크](https://blog.naver.com/uss425/222596214391)|
 |21/12/16|AOJ MATCHORDER|탐욕법|-|
 ||AOJ LUNCHBOX|탐욕법|-|
 ||BOJ 2476|투-포인터|[블로그 풀이📙](https://blog.naver.com/uss425/222597151673)|
-|21/12/17|UE4|Mousprint🐭|발사각 교정 로직 수정(LineTrace) 등, [Notion📔](https://www.notion.so/oriburger/Linetrace-42781341c1f5400f93f24fdeef3ee83a)|
+|21/12/17|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|발사각 교정 로직 수정(LineTrace) 등, [Notion📔](https://www.notion.so/oriburger/Linetrace-42781341c1f5400f93f24fdeef3ee83a)|
 |21/12/18|BOJ 1208|Meet In The Middle|[블로그 풀이📘](https://blog.naver.com/uss425/222598607901)|
+|21/12/19|[UE4|Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|곡선 타일 추가 및 디테일 수정, 임시 타겟 추가 등|
 </div>
 
 <!--
