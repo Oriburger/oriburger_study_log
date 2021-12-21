@@ -39,6 +39,7 @@
 |21/12/19|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|곡선 타일 추가 및 디테일 수정, 임시 타겟 추가 등|
 |21/12/20|BOJ 1450|Meet In The Middle|[블로그 풀이📒](https://blog.naver.com/uss425/222600222674)|
 ||**BOJ 1093**|Meet In The Middle|[블로그 풀이📗](https://blog.naver.com/uss425/222600253197)|
+|21/12/21|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|HP, 레그돌 기능 추가 / 타일 장애물 자동 생성 코드(~ing) |
 </div>
 
 <!--
