@@ -44,6 +44,7 @@
 |21/12/23|**BOJ 5879**|Meet In The Middle|[블로그 풀이📗](https://blog.naver.com/uss425/222602954891)|
 |21/12/24|BOJ 2087|Meet In The Middle|-|
 ||BOJ 10958|Meet In The Middle|-|
+|21/12/25|BOJ 4160|Meet In The Middle|집이 최고😑|
 </div>
 
 <!--
