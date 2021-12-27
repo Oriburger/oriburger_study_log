@@ -47,7 +47,7 @@
 |21/12/25|BOJ 4160|Meet In The Middle|집이 최고😑|
 |21/12/26|PG 숫자의 표현|누적합|연말병|
 |21/12/27|C++11,14|Type Deduction(Auto)|[Notion📗](https://oriburger.notion.site/Type-Deduction-3ac570dee2e34689918fe4f5094aa3e6)|
-||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|새로운 장애물, 프로젝트명 변경 |
+||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|새로운 장애물 추가, [프로젝트명 변경](https://www.notion.so/oriburger/UE4-C-37ca8d53656d4918ace12d56b041690e)|
 </div>
 
 <!--
