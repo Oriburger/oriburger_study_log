@@ -50,6 +50,8 @@
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|새로운 장애물 추가, [프로젝트명 변경](https://www.notion.so/oriburger/UE4-C-37ca8d53656d4918ace12d56b041690e)|
 |21/12/28|BOJ 2543|DP|후..🥲|
 ||CF #761-2 / A, B|영어 😵‍💫😵‍💫|
+|21/12/29|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|슬라이딩 추가, 타일 전면 변경 등|
+||대회|2022 겜마루 겨울 공모전|기획서 작성|
 </div>
 
 <!--
