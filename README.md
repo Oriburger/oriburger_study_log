@@ -53,6 +53,7 @@
 |21/12/29|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|슬라이딩 추가, 타일 전면 변경 등|
 ||대회|2022 겜마루 겨울 공모전|기획서 작성|
 |21/12/30|BOJ 17471|BFS|[블로그 풀이📙](https://blog.naver.com/uss425/222608747806)|
+|21/12/31|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|커브&직선 타일 구분(생성 로직 수정), Destructable  테스트|
 </div>
 
 <!--
