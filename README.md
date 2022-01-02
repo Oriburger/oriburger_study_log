@@ -11,7 +11,7 @@
 |날짜|분류|내용|비고|
 |----|:----|:----|:----|
 |21/01/01|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|새해 첫 Commit, HP바 추가|
-|21/01/02|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)||
+|21/01/02|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|Slide 애니메이션 루트모션 수정, 임시코드 C++|
 ||겜마루 공모전|발표준비|기획 발표 자료(pptx) 작성|-|
 </div>
 
