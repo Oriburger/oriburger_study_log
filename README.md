@@ -14,6 +14,7 @@
 |21/01/02|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|Slide 애니메이션 루트모션 수정, 임시코드 C++|
 ||겜마루 공모전|발표준비|기획 발표 자료(pptx) 작성|-|
 |21/01/02|CF #761-2 / C|구현|-|
+||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|Linetrace 로직 수정, Fly 몹 추가 |
 </div>
 
 <!--
