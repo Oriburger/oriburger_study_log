@@ -15,6 +15,8 @@
 ||겜마루 공모전|발표준비|기획 발표 자료(pptx) 작성|-|
 |21/01/02|CF #761-2 / C|구현|-|
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|Linetrace 로직 수정, Fly 몹 추가 |
+|21/01/02||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|몹 사망 이펙트 수정, 몹 이동 로직(임시BP코드) |
+||BOJ 1041|수학, 탐욕법|[블로그 풀이📔](https://blog.naver.com/uss425/222612742652)|
 </div>
 
 <!--
