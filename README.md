@@ -17,7 +17,8 @@
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|Linetrace 로직 수정, Fly 몹 추가 |
 |21/01/04|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|몹 사망 이펙트 수정, 몹 이동 로직(임시BP코드) |
 ||BOJ 1041|수학, 탐욕법|[블로그 풀이📔](https://blog.naver.com/uss425/222612742652)|
-|21/01/05|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|몹 공격 이펙트 추가(자폭 이펙트 등), 몹 오류 수정, BP->C++작업 등|
+|21/01/05|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|몹 공격 이펙트 추가(자폭 이펙트 등), BP->C++ 등|
+|21/01/06|BOJ 17135|시뮬레이션|[블로그 풀이📗](https://blog.naver.com/uss425/222614641773)|
 </div>
 
 <!--
