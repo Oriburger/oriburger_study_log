@@ -20,6 +20,7 @@
 |21/01/05|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|몹 공격 이펙트 추가(자폭 이펙트 등), BP->C++ 등|
 |21/01/06|BOJ 17135|시뮬레이션|[블로그 풀이📗](https://blog.naver.com/uss425/222614641773)|
 |21/01/07|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[플라잉몹 임시코드C++화](https://github.com/Oriburger/ue4_mousprint_/commit/b399049e63ec19128c7b63a02b2667910bcdc834), [여러 이펙트 추가 등](https://github.com/Oriburger/ue4_mousprint_/commit/2ddd95999ce2d4c2d0bde2a527a607a795849987)|
+|21/01/08|겜마루 공모전|기획발표|-|
 </div>
 
 <!--
