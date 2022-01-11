@@ -24,6 +24,7 @@
 |21/01/09|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[플라잉몹 오류 수정](https://github.com/Oriburger/ue4_mousprint_/commit/b8b0c66083068f30dad9a7a1190a027cf5df7f3b)|
 ||UE4|예제 정리|[Notion:자폭 플라잉몹📑](https://www.notion.so/oriburger/9785f74644214aab9825885f458f7fac)|
 |21/01/10|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[Following 독가스 테스트 및  수정](https://github.com/Oriburger/ue4_mousprint_/commits/master)|
+|21/01/11|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|캐릭터가 장애물에 넘어졌다가 일어나는 로직 등|
 </div>
 
 <!--
