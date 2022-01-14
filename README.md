@@ -28,6 +28,7 @@
 |21/01/12|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|폭발 데미지 추가 , Following Gas C++화(~ing)|
 |21/01/13|BOJ 2240|DP|-|
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|오류 수정[(1)](https://github.com/Oriburger/ue4_mousprint_/commit/556098056d89e77d03131d8ce8b8b84b77b46e50),  [(2)](https://github.com/Oriburger/ue4_mousprint_/commit/e29feca3c1004fc3bb5d55a30bd46094b2930444)|
+|21/01/14|UE4|RootMotion|[Notion📒](https://oriburger.notion.site/Root-Motion-cc60a7c44dfd4fd7836dcda2e8828130)|
 </div>
 
 <!--
