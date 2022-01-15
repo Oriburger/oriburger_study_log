@@ -31,6 +31,7 @@
 |21/01/14|UE4|RootMotion|[Notion📒](https://oriburger.notion.site/Root-Motion-cc60a7c44dfd4fd7836dcda2e8828130)|
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|대쉬 기능 추가(50%), RootMotion 관련 수정 등 |
 ||공부|1월 상반기 회고 작성|[포스팅 링크📑](https://blog.naver.com/uss425/222621857213)|
+|21/01/15|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|임시 메인메뉴 추가, Anim 오류 수정, [개발 로드맵(~ing)](https://oriburger.notion.site/Mousprint-94fa53a30a514273af9dec54c3910555)|
 </div>
 
 <!--
