@@ -34,7 +34,7 @@
 |21/01/15|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|임시 메인메뉴 추가, Anim 오류 수정, [개발 로드맵(~ing)](https://oriburger.notion.site/Mousprint-94fa53a30a514273af9dec54c3910555)|
 |21/01/16|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|Slide 로직 수정, Path 관련 BP 코드 C++화|
 |21/01/17|BOJ 1240|그래프|-|
-||BOJ 1245|그래프|-|
+||BOJ 1245|그래프|[블로그 풀이📙](https://blog.naver.com/uss425/222624140789)|
 </div>
 
 <!--
