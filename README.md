@@ -43,6 +43,7 @@
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|(임시) 뒤 보기 추가|
 |22/01/20|MIN,MAX,COUNT 등|SQL|프로그래머스 SQL 고득점 Kit 풀기 & [정리📃](https://oriburger.notion.site/SUM-MAX-MIN-8de87ea31cf04d35ba4fcd741a88669b)|
 |22/01/21|BOJ 1507|플로이드-워셜|[블로그 풀이📒](https://blog.naver.com/uss425/222627899371)|
+||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[TileGenerator, TileBasic 클래스 수정](https://github.com/Oriburger/ue4_mousprint_/commit/fe9f69fc4bad0a5ae2cd95e8dbb68f40583056f1)|
 </div>
 
 <!--
