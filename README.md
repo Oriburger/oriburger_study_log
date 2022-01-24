@@ -45,7 +45,8 @@
 |22/01/21|BOJ 1507|플로이드-워셜|[블로그 풀이📒](https://blog.naver.com/uss425/222627899371)|
 ||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[TileGenerator, TileBasic 클래스 수정](https://github.com/Oriburger/ue4_mousprint_/commit/fe9f69fc4bad0a5ae2cd95e8dbb68f40583056f1)|
 |22/01/22|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[점프, 슬라이드, 타일 로직 수정 등 多](https://github.com/Oriburger/ue4_mousprint_/commit/70dbb4b3a5bf01a9608f4e20f4e9104fda3d8913)|
-|22/01/23|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|데이터 시트 작업 (~ing) - [(1)](https://github.com/Oriburger/ue4_mousprint_/commit/91083d0dd8f95f72a24a1837d6a0a4d2cbddf2fb)[(2)](https://github.com/Oriburger/ue4_mousprint_/commit/e717d778844b26503d8c0beba197b1fef6ba50b6)|
+|22/01/23|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|데이터 시트 작업 (50%) - [(1)](https://github.com/Oriburger/ue4_mousprint_/commit/91083d0dd8f95f72a24a1837d6a0a4d2cbddf2fb)[(2)](https://github.com/Oriburger/ue4_mousprint_/commit/e717d778844b26503d8c0beba197b1fef6ba50b6)|
+|22/01/24|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[데이터 시트 인터페이스 작업 등 (75%)](https://github.com/Oriburger/ue4_mousprint_/commit/8687a6132f8d4521a1d0de68cb84dbe2b418adee)|
 </div>
 
 <!--
