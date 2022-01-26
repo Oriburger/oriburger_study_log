@@ -48,6 +48,7 @@
 |22/01/23|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|데이터 시트 작업 (50%) - [(1)](https://github.com/Oriburger/ue4_mousprint_/commit/91083d0dd8f95f72a24a1837d6a0a4d2cbddf2fb)[(2)](https://github.com/Oriburger/ue4_mousprint_/commit/e717d778844b26503d8c0beba197b1fef6ba50b6)|
 |22/01/24|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[데이터 시트 인터페이스 작업 등 (75%)](https://github.com/Oriburger/ue4_mousprint_/commit/8687a6132f8d4521a1d0de68cb84dbe2b418adee)|
 |22/01/25|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[데이터 시트 작업](https://github.com/Oriburger/ue4_mousprint_/commit/e50826e772ee9ae79bf693b59eec3782141903db) -> [장애물 생성 로직 판 엎기](https://github.com/Oriburger/ue4_mousprint_/commit/abf4f59dcb4ad7f6f417ea51af7d70141297a179)|
+|22/01/27|겜마루 공모전|중간 발표 준비|-|
 </div>
 
 <!--
