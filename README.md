@@ -50,9 +50,10 @@
 |22/01/25|UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[데이터 시트 작업](https://github.com/Oriburger/ue4_mousprint_/commit/e50826e772ee9ae79bf693b59eec3782141903db) -> [장애물 생성 로직 판 엎기](https://github.com/Oriburger/ue4_mousprint_/commit/abf4f59dcb4ad7f6f417ea51af7d70141297a179)|
 |22/01/26|겜마루 공모전|중간 발표 준비|기획서, 발표자료 (~ing)|
 |22/01/27|겜마루 공모전|중간 발표 준비|기획서, 발표자료|
-||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[효과음 추가](https://github.com/Oriburger/ue4_mousprint_/commit/072f9902c5fd166ee493949cd7d2d5aeb39a8091)|
+||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[효과음 추가(임시)](https://github.com/Oriburger/ue4_mousprint_/commit/072f9902c5fd166ee493949cd7d2d5aeb39a8091)|
 |22/01/28|BOJ 16235|구현, 시뮬레이션|[블로그 풀이📘](https://blog.naver.com/uss425/222633819071)|
-
+|22/01/29|겜마루 공모전|중간 발표!!|👍|
+||UE4|[Mousprint🐭](https://github.com/Oriburger/ue4_mousprint_)|[메모리 관련 오류 수정 등](https://github.com/Oriburger/ue4_mousprint_/commit/072f9902c5fd166ee493949cd7d2d5aeb39a8091)|
 </div>
 
 <!--
