@@ -1,7 +1,7 @@
 # STUDY RECORD
 <br>
 > 2020/05/15 기록 시작<br>
-> 2022/02/01 DailyRecord_2022.md 최초 작성
+> 2022/02/01 study_log_2022.md 최초 작성
 <br>
 
 ***
