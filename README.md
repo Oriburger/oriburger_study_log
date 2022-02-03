@@ -14,6 +14,7 @@
 ||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|[스테이지1완성](https://github.com/Oriburger/ue4_mousprint_/commit/310501f353182c548e540f94f07d1e8f530781af)|
 |22/02/02|BOJ 16938|백트래킹|-|
 ||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|[스테이지 전환 시스템 및 오류 수정📑](https://github.com/Oriburger/ue4_mousprint_/commit/b1ddd203b1219b2bcb8531a22db3eea97520807c)|
+|22/02/03|SQL|Group by, Is null|프로그래머스 SQL 고득점 Kit, [Notion📃](https://www.notion.so/oriburger/SQL-c8a6e97dbc2e4f17afe2ee3fec6c043e)|
 </div>
 
 <!--
