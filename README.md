@@ -17,7 +17,8 @@
 |22/02/03|SQL|Group by, Is null|프로그래머스 SQL 고득점 Kit, Notion[📃](https://www.notion.so/oriburger/SQL-c8a6e97dbc2e4f17afe2ee3fec6c043e)|
 ||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|나이아가라 활용 레이저 추가 등[ 📑 ](https://github.com/Oriburger/ue4_mousprint_/commit/4efa976a2e54dac7a37f227ab90fc438f11af2b3)|
 |22/02/04|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|ALaserBase 추가 및 오류 수정 등[ 📑 ](https://github.com/Oriburger/ue4_mousprint_/commit/cc0af1d978e122324adc0a48e42a92f8229aaf9c)|
-|22/02/05|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|AObstacleBase 추가[ 📑 ](https://github.com/Oriburger/ue4_mousprint_/commit/2a39cb2274afaebb13692b8abae6188a3861cf7c), 스테이지 재구성 및 오류 수정[ 📑 ](https://github.com/Oriburger/ue4_mousprint_/commit/fafa0cb1bcc8acc2f89a6857ee7f969004f9731f)|
+|22/02/05|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|AObstacleBase 추가[📑](https://github.com/Oriburger/ue4_mousprint_/commit/2a39cb2274afaebb13692b8abae6188a3861cf7c), 스테이지 재구성 및 오류 수정[📑](https://github.com/Oriburger/ue4_mousprint_/commit/fafa0cb1bcc8acc2f89a6857ee7f969004f9731f)|
+|22/02/06|UE4|데미지 시스템|Notion에 정리[📃](https://www.notion.so/oriburger/UE4-941d179809464b578df080ee3760b99f)|
 
 </div>
 
