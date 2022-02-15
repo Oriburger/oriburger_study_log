@@ -28,6 +28,7 @@
 |22/02/12|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|UI&로직 추가 및 수정[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/6253b19069187c955ee7ae83139a52ec7952d5a9)|
 |22/02/13|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|튜토리얼 콘텐츠 추가 등[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/9345e6517f53883ad86aaa4aef7e718805e6192e)|
 |22/02/14|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|UI 완성 (80%) 및 난이도 조정[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/eda5e398f041d50eef11335b17c8496fd5e25563), + 오류 폭격 |
+|22/02/15|BOJ 20040|서로소 집합|-|
 </div>
 
 <!--
