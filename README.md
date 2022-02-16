@@ -31,6 +31,8 @@
 |22/02/15|BOJ 20040|서로소 집합|[블로그 풀이📜](https://blog.naver.com/uss425/222648290599)|
 ||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|Niagara 관련 크래시 수정, 게임 세이브 작업(~ing)[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/b83a08c4bc2f35df4088edca2cc7d8f5fb5092d8)|
 ||공부|2월 상반기 회고 작성|[포스팅 링크📑](https://youtu.be/MESsJe_ZEzA)|
+|22/02/16|BOJ 2531|투-포인터|[블로그 풀이📜](https://blog.naver.com/uss425/222649101673)|
+||BOJ 11497|탐욕법|-|
 </div>
 
 <!--
