@@ -34,6 +34,7 @@
 |22/02/16|BOJ 2531|투-포인터|[블로그 풀이📜](https://blog.naver.com/uss425/222649101673)|
 ||BOJ 11497|탐욕법|-|
 ||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|게임 세이브 작업, 맵 밖으로 나가는 현상 수정 등[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/638be01f2788398a1757835101255dc8b3064c65)|
+|22/02/17|BOJ 1956|플로이드-워셜|[블로그 풀이📜](https://blog.naver.com/uss425/222650317902)|
 </div>
 
 <!--
