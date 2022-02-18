@@ -37,7 +37,7 @@
 |22/02/17|SQL|JOIN|Notion[📃_](https://www.notion.so/oriburger/JOIN-6868742f9874462f912d5c07b02d0870)|
 ||BOJ 1956|플로이드-워셜|블로그 풀이[📜_](https://blog.naver.com/uss425/222650317902)|
 ||BOJ 13904|탐욕법|블로그 풀이[📜_](https://blog.naver.com/uss425/222650387994)|
-||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/357bb6cae9a58d38d969f9796a81454c7f6c52be)|
+||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|화면 흔들림 효과 추가 등[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/357bb6cae9a58d38d969f9796a81454c7f6c52be)|
 </div>
 
 <!--
