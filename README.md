@@ -43,8 +43,7 @@
 |22/02/20|UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|일시정지 메뉴 추가 및 기타 수정[📑_](https://github.com/Oriburger/ue4_mousprint_/commit/a3cddb4880f90dc261bed365cec6b5cdcb79d78c), [📑_](https://github.com/Oriburger/ue4_mousprint_/commit/f9349db8b5a4116fd2ad750ee555074bf946e428)|
 ||BOJ 10164|DP, 수학|-|
 |22/02/21|BOJ 2812|탐욕법, 스택|블로그 풀이[📜_](https://blog.naver.com/uss425/222653434762)|
-||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|환경설정 추가 및 오류 수정 [📑_]
-(https://github.com/Oriburger/ue4_mousprint_/commit/5d251af7c6e62e9468cd280ea4be430ef52bc478)|
+||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|환경설정 추가 및 오류 수정 [📑_](https://github.com/Oriburger/ue4_mousprint_/commit/5d251af7c6e62e9468cd280ea4be430ef52bc478)|
 |22/02/22|겜마루 겨울 공모전|발표 자료 수정 + 최종 발표..!|끝났다 ㅠㅠ|
 |22/02/23|BOJ 2636|BFS, 시뮬레이션|😵|
 </div>
