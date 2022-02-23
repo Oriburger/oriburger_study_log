@@ -46,6 +46,7 @@
 ||UE4|[Mousprint🐁](https://github.com/Oriburger/ue4_mousprint_)|환경설정 추가 및 오류 수정 [📑_]
 (https://github.com/Oriburger/ue4_mousprint_/commit/5d251af7c6e62e9468cd280ea4be430ef52bc478)|
 |22/02/22|겜마루 겨울 공모전|발표 자료 수정 + 최종 발표..!|끝났다 ㅠㅠ|
+|22/02/23|BOJ 2636|BFS, 시뮬레이션|😵|
 </div>
 
 <!--
