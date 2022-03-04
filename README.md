@@ -18,7 +18,8 @@
 ||PG 입국심사(re)|이분탐색|-|
 |22/03/04|BOJ 3109|DFS, 탐욕법|블로그 풀이[📜_](https://blog.naver.com/uss425/222664040124)|
 ||PG N으로표현(re)|DP|-|
-||PG 체육복|탐욕법|-|
+||PG 체육복(re)|탐욕법|-|
+||[PG 조이스틱(re)](https://github.com/Oriburger/problem_solving_1w3solve/blob/master/Programmers/JoyStick.cpp)⭐|탐욕법|-|
 ||BOJ 18405|BFS|-|
 ||BOJ 3109|DFS|-|
 ||PG SQL 고득점 Kit|정주행🚓|-|
