@@ -26,6 +26,8 @@
 |22/03/05|PG 구명보트(re)|탐욕법|smct!!|
 |22/03/06|BOJ 17396|다익스트라|복습..|
 |22/03/07|PG SQL 고득점 Kit|Join 복습|SELECT 할 대상과 JOIN할 대상이 같다면[📃_](https://www.notion.so/oriburger/JOIN-6868742f9874462f912d5c07b02d0870)|
+|22/03/08|BOJ 9694|다익스트라|-|
+||BOJ 16562|서로소 집합|블로그 풀이[📜_](https://blog.naver.com/uss425/222667329902)|
 </div>
 
 <!--
