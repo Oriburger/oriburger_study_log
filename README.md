@@ -30,6 +30,7 @@
 ||BOJ 16562|서로소 집합|블로그 풀이[📜_](https://blog.naver.com/uss425/222667329902)|
 |22/03/09|BOJ 5052|트라이|Notion[📚](https://www.notion.so/oriburger/2-4-34d6535a6d014c19807fe181ceebe533) - 트라이 정리|
 ||**BOJ 5670⭐**|트라이|-|
+|22/03/10|BOJ 14426|트라이|-|
 </div>
 
 <!--
