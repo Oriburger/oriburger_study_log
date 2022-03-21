@@ -55,7 +55,9 @@
 ||DP|PG 등굣길 (re)|-|
 ||파라메트릭|BOJ 22953|🥲|
 |22/03/20|Mousprint[🐀_](https://github.com/Oriburger/ue4_mousprint_)|Bug : 사양별 장애물 이동 속도 차이[(link)](https://github.com/Oriburger/ue4_mousprint_/issues/4)||
-||UE4|Timer 기본 활용 (생성, 제거, 인터벌 조정 등)|Notion[📚 ](https://www.notion.so/oriburger/Timer-b8980562ce0145818c0f1fe3ecbee744)
+||UE4|Timer 기본 활용 (생성, 제거, 인터벌 조정 등)|Notion[📚 ](https://www.notion.so/oriburger/Timer-b8980562ce0145818c0f1fe3ecbee744)|
+|22/03/21|Mousprint[🐀_](https://github.com/Oriburger/ue4_mousprint_)|오류 수정 및 Issue Close[🚪 ](https://github.com/Oriburger/ue4_mousprint_/issues/4)|
+||학교✏️|객체 과제 제출, 선형대수 과제 (50%)|-|
 </div>
 
 <!--
