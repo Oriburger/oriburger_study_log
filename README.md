@@ -63,6 +63,7 @@
 |22/03/23|BOJ 16564|이분탐색|-|
 |22/03/24|BOJ 13771|기초|포폴 준비 등..|
 |22/03/25|BOJ 6588|소수판별|-|
+|22/03/26|SDL|기초 내용(1)|Notion에 정리 [📄_](https://www.notion.so/oriburger/SDL-Simple-DirectMedia-Layer-58a46d24b3494f2db2cafe4ca2378bb4), 봉사..|
 </div>
 
 <!--
