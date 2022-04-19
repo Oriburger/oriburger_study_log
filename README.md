@@ -35,7 +35,8 @@
 ||공부|시험공부, UE4|소스 빌드에서 막히네..|
 |22/04/17|공부|컴퓨터 구조, 자료구조|-|
 ||UE4|Dedicated Server|-|
-|22/04/18|SWM|미니 프로젝트|OT, HTML/CSS 강의[📃_](https://www.notion.so/oriburger/SWM-Web-938adaa2169f426c96ee253bef535141)🥲|
+|22/04/18|SWM|미니 프로젝트|OT, HTML/CSS 강의(1)[📃_](https://www.notion.so/oriburger/SWM-Web-938adaa2169f426c96ee253bef535141) - HTML/CSS 기본|
+|22/04/19|SWM|미니 프로젝트|OT, HTML/CSS 강의(2)[📃_](https://www.notion.so/oriburger/SWM-Web-938adaa2169f426c96ee253bef535141) - HTML/CSS 반응형 사이트|
 </div>
 
 <!--
