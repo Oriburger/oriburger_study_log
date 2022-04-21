@@ -38,6 +38,8 @@
 |22/04/18|SWM|미니 프로젝트|OT, HTML/CSS 강의(1)[📃_](https://oriburger.notion.site/SWM-Web-50f133c3646743d4a9e2eda4b6934b7e) - HTML/CSS 기본|
 |22/04/19|SWM|미니 프로젝트|HTML/CSS 강의(2)[📃_](https://oriburger.notion.site/SWM-Web-50f133c3646743d4a9e2eda4b6934b7e) - HTML/CSS 반응형 사이트|
 |22/04/20|SWM|미니 프로젝트|Javascript(1)[📃_](https://oriburger.notion.site/SWM-Web-50f133c3646743d4a9e2eda4b6934b7e) - 기본 문법|
+|22/04/21|SWM|미니 프로젝트|Javascript(2)[📃_](https://oriburger.notion.site/SWM-Web-50f133c3646743d4a9e2eda4b6934b7e) - DOM|
+||BOJ 17281|시뮬레이션|블로그 풀이[📜_](https://blog.naver.com/uss425/222707564653), 내일 시험..🥲|
 </div>
 
 <!--
