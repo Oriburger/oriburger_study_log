@@ -40,7 +40,8 @@
 |22/04/20|SWM|미니 프로젝트|Javascript(1)[📃_](https://oriburger.notion.site/SWM-Web-50f133c3646743d4a9e2eda4b6934b7e) - 기본 문법|
 |22/04/21|SWM|미니 프로젝트|Javascript(2)[📃_](https://oriburger.notion.site/SWM-Web-50f133c3646743d4a9e2eda4b6934b7e) - DOM|
 ||BOJ 17281|시뮬레이션|블로그 풀이[📜_](https://blog.naver.com/uss425/222707564653), 내일 시험..🥲|
-|22/04/22|SWM|미니 프로젝트|Node.js(1)[📃_](https://www.notion.so/oriburger/Node-js-2592db01ff924547b8636d9aace22c9d) - 기본 이해 ~ 이벤트 루프|
+|22/04/22|SWM|미니 프로젝트|Node.js(1)[📃_](https://www.notion.so/oriburger/Node-js-2592db01ff924547b8636d9aace22c9d) - 기본 이해 ~ 이벤트 루프
+|22/04/23|SWM|미니 프로젝트|Node.js(2)[📃_](https://www.notion.so/oriburger/NPM-8158b85959c24615b97cc8fc585529cd), [📃_](https://www.notion.so/oriburger/Node-js-38f476ef75214737991d626ddcd62814) - NPM, 모듈 등|
 </div>
 
 <!--
