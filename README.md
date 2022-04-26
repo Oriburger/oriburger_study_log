@@ -45,6 +45,7 @@
 |22/04/24|SWM|미니 프로젝트|-|
 ||BOJ 2740|행렬|-|
 |22/04/25🎂|SWM|미니 프로젝트|인스타그램 클론코딩[📃_](https://www.notion.so/oriburger/bd93d9aad26c459db7604f21db70e2c4), [📃_](https://www.notion.so/oriburger/bd0f7f2dd4684bf784b4ef26307ebcaa) - Component, IndexedDB|
+|22/04/26|BOJ 13164|탐욕법|블로그 풀이[📜_](https://blog.naver.com/uss425/222712559365), *선형대수 중간고사 망*|
 </div>
 
 <!--
