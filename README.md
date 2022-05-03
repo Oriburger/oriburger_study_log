@@ -15,7 +15,7 @@
 ||BOJ 12970|탐욕법|-|
 |22/05/02|겜마루|UE4 스터디|-|
 |22/05/03|SWM|기술 특강 : Github|Notion[📃_](https://www.notion.so/oriburger/Git-4de71cf82eaf4950959911e907a79678)에 정리|
-||BOJ 15553|난로|탐욕법|-|
+||BOJ 15553|탐욕법|블로그 풀이[📄_](https://blog.naver.com/uss425/222719938076)|
 </div>
 
 <!--
