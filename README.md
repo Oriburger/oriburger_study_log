@@ -22,7 +22,7 @@
 ||UE4|플젝 코어 예제|간단하게 구현|
 |22/05/07|과제|자료구조 - Chain 구조|push, pop 등 기본연산 + iterator 기능 구현|
 ||BOJ 2820|Lazy Propagation + ETT|오일러 경로 테크닉? 신박하네|
-||*BOJ 14268(~ing)*|Lazy Propagation + ETT|왜..|
+||BOJ 14268|Lazy Propagation + ETT|-|
 </div>
 
 <!--
