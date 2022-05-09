@@ -26,6 +26,7 @@
 |22/05/08|과제|자료구조|clear 추가 및 오류 수정 + 제출|
 ||BOJ 16404|Lazy Propagation + ETT|꺼-억|
 ||SWM|팀 멘토링|아이디어 회의 외, 신경 쓸 게 되게 많네..😶‍🌫️|
+|22/05/09|UE4|UE4 네트워크|Notion에 정리[📑_](https://www.notion.so/oriburger/Unreal-Engine-1314661e350f4025acb894031b91f3cf)|
 </div>
 
 <!--
