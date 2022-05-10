@@ -27,6 +27,9 @@
 ||BOJ 16404|Lazy Propagation + ETT|꺼-억|
 ||SWM|팀 멘토링|아이디어 회의 외, 신경 쓸 게 되게 많네..😶‍🌫️|
 |22/05/09|UE4|UE4 네트워크|Notion에 정리[📑_](https://www.notion.so/oriburger/Unreal-Engine-1314661e350f4025acb894031b91f3cf)|
+|22/05/10|UE4|UE4 네트워크|Replication이란?|
+||SWM|팀 멘토링, 팀 미팅|기획, 그라운드 룰 등|
+||BOJ 17256|기초|-|
 </div>
 
 <!--
