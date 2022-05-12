@@ -24,7 +24,7 @@
 ||BOJ 2820|Lazy Propagation + ETT|오일러 경로 테크닉? 신박하네|
 ||BOJ 14268|Lazy Propagation + ETT|블로그 풀이[📄_](https://blog.naver.com/uss425/222724255383)|
 |22/05/08|과제|자료구조|clear 추가 및 오류 수정 + 제출|
-||BOJ 16404|Lazy Propagation + ETT|꺼-억|
+||BOJ 16404|Lazy Propagation + ETT||
 ||SWM|팀 멘토링|아이디어 회의 외, 신경 쓸 게 되게 많네..😶‍🌫️|
 |22/05/09|UE4|UE4 네트워크|Notion에 정리[📑_](https://www.notion.so/oriburger/Unreal-Engine-1314661e350f4025acb894031b91f3cf)|
 |22/05/10|UE4|UE4 네트워크|Replication이란?|
@@ -32,6 +32,7 @@
 ||BOJ 17256|기초|-|
 |22/05/11|UE4|Listen-Server|구현(~ing)|
 ||BOJ 2207|2-SAT|재채점.. |
+|22/05/12|BOJ 14287|Lazy Propagation + ETT|Yummy~|
 </div>
 
 <!--
