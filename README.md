@@ -34,6 +34,9 @@
 ||BOJ 2207|2-SAT|재채점.. |
 |22/05/12|BOJ 14287|Lazy Propagation + ETT|Yummy~|
 ||UE4|Listen-Server|구현(~ing)|
+|22/05/13|BOJ 1633|DP|블로그 풀이[📄_](https://blog.naver.com/uss425/222731647082)|
+||SWM|자유 멘토링|1차 기획 심의 통과 Tip|
+||UE4|Listen-Server|@.@|
 </div>
 
 <!--
