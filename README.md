@@ -39,6 +39,7 @@
 ||UE4|Listen-Server|@.@|
 |22/05/14|UE4|Listen-Server|구현|
 |22/05/15|공부|5월 상반기 회고 작성|[포스팅 링크📑](https://blog.naver.com/uss425/222733433954)|
+|22/05/16|UE4|Listen-Server|Projectile Replication (~ing)|
 </div>
 
 <!--
