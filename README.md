@@ -45,6 +45,7 @@
 ||UE4|Listen-Server|TPS 기본 기능 완성 [📑_](https://www.notion.so/oriburger/Projectile-Replication-e0b9bc436a16419a9d6135c240b0988f)|
 |22/05/19|BOJ 15439|기초|-|
 ||SWM|멘토링|팀 멘토링 (기획 등)|
+|22/05/20|자료구조|과제|리포지토리 수정 등, 본가옴|
 </div>
 
 <!--
