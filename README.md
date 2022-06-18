@@ -5,7 +5,7 @@
 - 이전의 기록은 [Old/study-log@@@@.md](https://github.com/Oriburger/oriburger_study_log/blob/main/Old/study_log_2021.md)
 ---
 
-## 2022/05
+## 2022/06
 
 <div markdown="1">
 
@@ -34,7 +34,7 @@
 |22/06/16|BOJ 6144|0-1 knapsack|-|
 ||SWM|기획 발표|-|
 |22/06/17|BOJ 23843|탐욕법|종강!|
-|22/06/18|*BOJ 1344(~ing)*|DP|-|
+|22/06/18|*BOJ 1344(~ing)*|DP|포스팅 링크[📑_](https://blog.naver.com/uss425/222778883662)|
 </div>
 
 <!--
