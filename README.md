@@ -13,11 +13,12 @@
 |:----|:----|:----|:----|
 |23/01/03|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|발표자료 제작, AI 수정 등|-|
 |23/01/04|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|AI 개인 영역 및 복귀 로직, BT 로직 개선, 카메라 피격 효과 등|-|
-||디자인패턴|기초 개념 정리|[Notion 링크](https://oriburger.notion.site/d26ac58c56f4463da579fab61b3d3355)|
+||디자인패턴|기초 개념 정리|[Notion 링크🖌️](https://oriburger.notion.site/d26ac58c56f4463da579fab61b3d3355)|
 |23/01/05|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|공모전 기획 발표, AI Rotation 버그 수정 등|-|
 |23/01/06|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|[전투 기획⚔️](https://shadowed-peanut-70c.notion.site/d9bde4ad71404f7db98729d9d7aa1984), VFX 에셋 서치 및 마이그레이션|-|
 |23/01/09|BOJ 9184|DP 기초|-|
 |23/01/10|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|PR 리뷰, 병합(오류 수정, 소스 분류 등)|-|
+||디자인패턴|반복자 패턴|[Notion 링크🖌️](https://www.notion.so/oriburger/893cc8a3d9a843f2b58e6b0c6fe11bd9)|
 
 </div>
 
