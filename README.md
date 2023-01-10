@@ -17,6 +17,7 @@
 |23/01/05|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|공모전 기획 발표, AI Rotation 버그 수정 등|-|
 |23/01/06|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|[전투 기획⚔️](https://shadowed-peanut-70c.notion.site/d9bde4ad71404f7db98729d9d7aa1984), VFX 에셋 서치 및 마이그레이션|-|
 |23/01/09|BOJ 9184|DP 기초|-|
+|23/01/10|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|PR 리뷰, 병합(오류 수정, 소스 분류 등)|-|
 
 </div>
 
