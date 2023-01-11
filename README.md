@@ -19,7 +19,7 @@
 |23/01/09|BOJ 9184|DP 기초|-|
 |23/01/10|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|PR 리뷰, 병합(오류 수정, 소스 분류 등)|-|
 ||디자인패턴|반복자 패턴|[Notion 링크🖌️](https://www.notion.so/oriburger/893cc8a3d9a843f2b58e6b0c6fe11bd9)|
-|23/01/11|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|몹&무기&효과 추가, 조작 개선, 오류 수정 등|[Top-Down 마우스 조준 정리](https://www.notion.so/oriburger/Top-Down-75d654297af64d78a3107fdc6819604a)|
+|23/01/11|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|[몹_](https://shadowed-peanut-70c.notion.site/b6aeac8b401d4d95a304ca2f5ae484a4)&무기&효과 추가, 조작 개선, 오류 수정 등|[Top-Down 마우스 조준 정리](https://www.notion.so/oriburger/Top-Down-75d654297af64d78a3107fdc6819604a)|
 
 </div>
 
