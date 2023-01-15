@@ -22,7 +22,8 @@
 |23/01/11|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|[몹_](https://shadowed-peanut-70c.notion.site/b6aeac8b401d4d95a304ca2f5ae484a4)&무기&효과 추가, 조작 개선, 오류 수정 등|[Top-Down 마우스 조준 정리](https://www.notion.so/oriburger/Top-Down-75d654297af64d78a3107fdc6819604a)|
 |23/01/12|[BackStreet🌆](https://github.com/Oriburger/problem_solving_1w3solve)|버프/디버프 효과 수정, 애니메이션 추가 등|-|
 |23/01/13|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6c9e606bb0bab868bbb71dddc7b5b45628ac8c85)|버프/디버프 버그 수정|다렉 공부는 언제..?|
-|23/01/14||||
+|23/01/14|부산여행|-|-|
+|23/01/15|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6c9e606bb0bab868bbb71dddc7b5b45628ac8c85)|마우스 커서 조준 로직 개선|다렉 공부는 진짜 언제..?|
 </div>
 
 <!--
