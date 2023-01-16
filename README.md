@@ -24,6 +24,7 @@
 |23/01/13|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6c9e606bb0bab868bbb71dddc7b5b45628ac8c85)|버프/디버프 버그 수정|다렉 공부는 언제..?|
 |23/01/14|부산여행|-|-|
 |23/01/15|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6c9e606bb0bab868bbb71dddc7b5b45628ac8c85)|마우스 커서 조준 로직 개선|다렉 공부는 진짜 언제..?|
+|23/01/16|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/9307f2ec619bb75a4fa1582e5487ecf103d67f3b)|근접 공격 LineTrace 로직 개선 |[블로그 포스팅](https://blog.naver.com/uss425/222986026723)|
 </div>
 
 <!--
