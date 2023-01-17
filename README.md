@@ -25,6 +25,7 @@
 |23/01/14|부산여행|-|-|
 |23/01/15|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6c9e606bb0bab868bbb71dddc7b5b45628ac8c85)|마우스 커서 조준 로직 개선|다렉 공부는 진짜 언제..?|
 |23/01/16|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/9307f2ec619bb75a4fa1582e5487ecf103d67f3b)|근접 공격 LineTrace 로직 개선 |[블로그 포스팅](https://blog.naver.com/uss425/222986026723)|
+|23/01/17|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/4a7638d2f709709d88cb14dec01c2edb6d7d93d8)|메인메뉴 UI 애니메이션 등|[싱글턴 패턴](https://oriburger.notion.site/ff088385992548309fca21d33b32cda0) 정리, [Affine Space](https://www.notion.so/oriburger/1-Affine-Space-202ea2afd7ef494a9e78a8bfbce1b79f) 복습|
 </div>
 
 <!--
