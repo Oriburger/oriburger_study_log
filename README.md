@@ -27,7 +27,7 @@
 |23/01/16|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/9307f2ec619bb75a4fa1582e5487ecf103d67f3b)|근접 공격 LineTrace 로직 개선 |[블로그 포스팅](https://blog.naver.com/uss425/222986026723)|
 |23/01/17|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/4a7638d2f709709d88cb14dec01c2edb6d7d93d8)|메인메뉴 UI 애니메이션 등|[싱글턴 패턴](https://oriburger.notion.site/ff088385992548309fca21d33b32cda0) 정리, [Affine Space](https://www.notion.so/oriburger/1-Affine-Space-202ea2afd7ef494a9e78a8bfbce1b79f) 복습|
 |23/01/18|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/5812794947a02577d1a231dd032596ef16e02394)|메인메뉴 레벨 디자인, 랜덤 메인메뉴 레벨, Rotation 튀는 버그 수정 등| - |
-||게임 수학📖|아핀 조합 및 직선|[Notion에 정리✏️](https://github.com/Oriburger/UE5-BackStreet/commit/5812794947a02577d1a231dd032596ef16e02394)|
+||게임 수학📖|아핀 조합 및 직선|[Notion에 정리✏️](https://oriburger.notion.site/3-4be9e2d300ac48dcb63d2f2e9c2a488b)|
 |23/01/19|BackStreet🌆[1](https://github.com/Oriburger/UE5-BackStreet/commit/faecda0c46a2a910f572a27b0d905e0f13fc3732)[2](https://github.com/Oriburger/UE5-BackStreet/commit/3c27b45a28f869b32fdebbd6fe5bd4efebd76471)|AI 부드러운 Rotation 전환, Fake 로딩화면 및 전환효과 등|-|
 ||디자인 패턴|빌더 패턴|[Notion에 정리✏️](https://oriburger.notion.site/e9600adead7a479498f2631a95e1e2f4)|
 </div>
