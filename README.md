@@ -30,6 +30,8 @@
 ||게임 수학📖|아핀 조합 및 직선|[Notion에 정리✏️](https://oriburger.notion.site/3-4be9e2d300ac48dcb63d2f2e9c2a488b)|
 |23/01/19|BackStreet🌆[1](https://github.com/Oriburger/UE5-BackStreet/commit/faecda0c46a2a910f572a27b0d905e0f13fc3732)[2](https://github.com/Oriburger/UE5-BackStreet/commit/3c27b45a28f869b32fdebbd6fe5bd4efebd76471)|AI 부드러운 Rotation 전환, Fake 로딩화면 및 전환효과 등|-|
 ||디자인 패턴|빌더 패턴|[Notion에 정리✏️](https://oriburger.notion.site/e9600adead7a479498f2631a95e1e2f4)|
+|23/01/20|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6db703c2eb37b89ccc20b6af603f01f7a2235edf)|무기 추가, 기획 수정 |-|
+||디자인 패턴|팩토리 메소드 패턴|[Notion에 정리✏️](https://oriburger.notion.site/8fd9507bc10a456797ea8071f3e7387f)|
 </div>
 
 <!--
