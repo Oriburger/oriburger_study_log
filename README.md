@@ -33,6 +33,7 @@
 |23/01/20|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6db703c2eb37b89ccc20b6af603f01f7a2235edf)|무기 추가, 기획 수정 |-|
 ||디자인 패턴|팩토리 메소드 패턴|[Notion에 정리✏️](https://oriburger.notion.site/8fd9507bc10a456797ea8071f3e7387f)|
 |23/01/21|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/e17190250cef377e7fdb932b6f3ac629431b756d)|무기 초기화 로직 개선 등|-|
+|23/01/22|설 연휴|-|-|
 </div>
 
 <!--
