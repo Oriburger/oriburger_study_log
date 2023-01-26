@@ -33,8 +33,11 @@
 |23/01/20|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/6db703c2eb37b89ccc20b6af603f01f7a2235edf)|무기 추가, 기획 수정 |-|
 ||디자인 패턴|팩토리 메소드 패턴|[Notion에 정리✏️](https://oriburger.notion.site/8fd9507bc10a456797ea8071f3e7387f)|
 |23/01/21|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/e17190250cef377e7fdb932b6f3ac629431b756d)|무기 초기화 로직 개선 등|-|
-|23/01/22|설 연휴|-|-|
+|23/01/22|명절 일정|-|-|
 |23/01/23|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/c92c46e7cd806b99805b8bdef2eb3f4d0d77369d)|AI Controller 네이티브화|-|
+|23/01/24|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|BTService 네이티브화|[참고자료📖](https://forums.unrealengine.com/t/how-to-implement-btservice-in-c/382032/3)|
+|23/01/25|명절 일정|-|-|
+|23/01/26|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|BTService 네이티브화 미작동 오류 수정, 보스몹 기본 애니메이션 작업|-|
 </div>
 
 <!--
