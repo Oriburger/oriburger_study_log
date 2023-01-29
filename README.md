@@ -39,6 +39,7 @@
 |23/01/25|명절 일정|-|-|
 |23/01/26|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|BTService 네이티브화 미작동 오류 수정, 보스몹 기본 애니메이션 작업|-|
 |23/01/27|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|장전 딜레이 오류 수정, BTTask 네이티브화(~ing)|-|
+|23/01/28|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|BTT 네이티브화, 인게임 UI 기획 (~ing)|-|
 </div>
 
 <!--
