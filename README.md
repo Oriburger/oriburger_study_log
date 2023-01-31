@@ -42,6 +42,7 @@
 |23/01/28|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|BTT 네이티브화, 인게임 UI 기획 (~ing)|-|
 |23/01/29|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|결과화면UI 레이아웃 구성 및 애니메이션|-|
 |23/01/30|[BackStreet🌆](https://github.com/Oriburger?tab=repositories)|병합 및 오류 수정, 무기 소유 로직 개선|-|
+|23/01/31|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/0a46ccb7c88e4336bcf2bc0c391017b0f79ab241)|인벤토리 로직(~ing)|쉬울줄 알았는데 아니었던것. / [테스트 영상📺](https://youtu.be/v-obaMW_irQ)|
 </div>
 
 <!--
