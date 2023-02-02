@@ -12,6 +12,7 @@
 |날짜|분류|내용|비고|
 |:----|:----|:----|:----|
 |23/02/01|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet)|인벤토리 기본 로직 완성, 임시 인벤토리 UI|😵‍💫|
+|23/02/02|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet)|인벤토리 로직 버그 수정, 게임 오버 UI 및 기능, 적 플로팅 HP위젯 등|😵‍💫|
 </div>
 
 <!--
