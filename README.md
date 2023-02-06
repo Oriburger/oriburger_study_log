@@ -17,6 +17,7 @@
 |23/02/04|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/39a318cac54fdaccafa67def90b12615480e4464)|타일간 전환 로직, 레벨 디자인 (~ing), ActionState 관련 오류 수정 등|-|
 |23/02/05|[BackStreet🌆](https://github.com/SSU-BackStreet/UE5-BackStreet)|레벨 디자인 (~ing), 병합 작업 등|-|
 ||디자인 패턴📖|데코레이터 패턴|[Notion에 정리✏️](https://oriburger.notion.site/96de0df7fc5e4834a5e8ede32aba4b02)|
+|23/02/06|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/cc1dba51180a1ea7aa0bb85c36a2f6cc59036c82)|레벨 디자인, 발 사운드, 발사체 사운드 등|브랜치 실수함..|
 </div>
 
 <!--
