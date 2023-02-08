@@ -19,6 +19,7 @@
 ||디자인 패턴📖|데코레이터 패턴|[Notion에 정리✏️](https://oriburger.notion.site/96de0df7fc5e4834a5e8ede32aba4b02)|
 |23/02/06|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/cc1dba51180a1ea7aa0bb85c36a2f6cc59036c82)|레벨 디자인, 발 사운드, 발사체 사운드 등|브랜치 실수함..|
 |23/02/07|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/fb653a0781c7de58c13b921d90bad38d02921e92)|무기 Hit Impact 출력 로직 개선 등|-|
+|23/02/08|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/e014feb05e43fe679a0b8a6190d758e2d2087eea)|버프 시스템 분리 (~ing)|아니 왜 안돼...|
 </div>
 
 <!--
