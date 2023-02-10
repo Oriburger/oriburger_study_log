@@ -21,7 +21,7 @@
 |23/02/07|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/fb653a0781c7de58c13b921d90bad38d02921e92)|무기 Hit Impact 출력 로직 개선 등|-|
 |23/02/08|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/e014feb05e43fe679a0b8a6190d758e2d2087eea)|버프 시스템 분리 (~ing)|아니 왜 안돼...|
 |23/02/09|BackStreet🌆[1](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/21baa88ac794d50f7e24536a12df16457e6dd3c3), [2](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/ab5892d6b10a6518924e355c3da35437b029fb96)|사운드 추가, 각종 개선 작업|[유튜브 테스트 영상🎞️](https://www.youtube.com/watch?v=XqbCDdVFlTI&ab_channel=LJH)|
-|23/02/1-|BackStreet🌆[1](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/1d1957404cf59637716ecd8d28c58ad67152528b), [2](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/47f7715fa92cb657475409adc24a87533366a0ab)|레벨 디자인 적용, AI 개선 등|[유튜브 테스트 영상🎞️](https://www.youtube.com/watch?v=bI3qDy2NUew&ab_channel=LJH)|
+|23/02/10|BackStreet🌆[1](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/1d1957404cf59637716ecd8d28c58ad67152528b), [2](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/47f7715fa92cb657475409adc24a87533366a0ab)|레벨 디자인 적용, AI 개선 등|[유튜브 테스트 영상🎞️](https://www.youtube.com/watch?v=bI3qDy2NUew&ab_channel=LJH)|
 </div>
 
 <!--
