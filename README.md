@@ -25,6 +25,7 @@
 |23/02/11|BackStreet🌆[1](https://github.com/Oriburger/UE5-BackStreet/commit/9f90588b5ddca7f3d61277fa34c7fc360deae75a), [2](https://github.com/Oriburger/UE5-BackStreet/commit/164a585b46d4f798c861d19ade764c96d2853b7e)|패키징 파일 크래시 현상 일부 수정, WeaponState 개선 등|[블로그 포스팅💡](https://blog.naver.com/uss425/223012458970)|
 |23/02/12|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/90dcbe4ccac80afa953d50695a93521fd041dfc9)|캐릭터 머티리얼 효과, AI 개선 등|-|
 |23/02/13|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/59f10dacadfa5475cdf608c17a5a17180d160d82)|아이템 클래스 분리(~ing), 버프 오류 수정, 병합 작업 등|-|
+|23/02/14|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/fd1f586b0f94c9e17c59b7a4b1202118c432bc04)|버프/미션 아이템 추가, 아이템 박스 구현(~ing) 등|죽여줘..|
 </div>
 
 <!--
