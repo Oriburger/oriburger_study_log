@@ -26,6 +26,7 @@
 |23/02/12|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/90dcbe4ccac80afa953d50695a93521fd041dfc9)|캐릭터 머티리얼 효과, AI 개선 등|-|
 |23/02/13|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/59f10dacadfa5475cdf608c17a5a17180d160d82)|아이템 클래스 분리(~ing), 버프 오류 수정, 병합 작업 등|-|
 |23/02/14|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/fd1f586b0f94c9e17c59b7a4b1202118c432bc04)|버프/미션 아이템 추가, 아이템 박스 구현(~ing) 등|죽여줘..|
+|23/02/15|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/a939cd2b109529c79f17b4318992ee1bc9ccbdf4)|아이템 박스/아이템 로직 완성|-|
 </div>
 
 <!--
