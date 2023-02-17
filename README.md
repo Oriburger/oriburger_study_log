@@ -27,6 +27,8 @@
 |23/02/13|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/59f10dacadfa5475cdf608c17a5a17180d160d82)|아이템 클래스 분리(~ing), 버프 오류 수정, 병합 작업 등|-|
 |23/02/14|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/fd1f586b0f94c9e17c59b7a4b1202118c432bc04)|버프/미션 아이템 추가, 아이템 박스 구현(~ing) 등|죽여줘..|
 |23/02/15|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/a939cd2b109529c79f17b4318992ee1bc9ccbdf4)|아이템 박스/아이템 로직 완성|-|
+|23/02/16|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/5aee26b0929682a783245c18a70c5234a6a4ed13)|원형 인벤토리 기본 로직|-|
+|23/02/17|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/3dc21bf7140db0e305df481d3dd6142540644820)|원형 인벤토리 완성, 보스몹 포효 이벤트, 버그 픽스 등|-|
 </div>
 
 <!--
