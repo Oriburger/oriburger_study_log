@@ -29,6 +29,9 @@
 |23/02/15|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/a939cd2b109529c79f17b4318992ee1bc9ccbdf4)|아이템 박스/아이템 로직 완성|-|
 |23/02/16|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/5aee26b0929682a783245c18a70c5234a6a4ed13)|원형 인벤토리 기본 로직|-|
 |23/02/17|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/3dc21bf7140db0e305df481d3dd6142540644820)|원형 인벤토리 완성, 보스몹 포효 이벤트, 버그 픽스 등|-|
+|23/02/18|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/cde4783e19d3ac4d8fc72a9cc1369e521bf494bb)|인게임 UI 이미지 추가, 버프/디버프 버그 픽|-|
+|23/02/19|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/f70310ab6a55175898d1f17179580947b1540cea)|병합 작업, 버그 픽스|-|
+
 </div>
 
 <!--
