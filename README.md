@@ -31,6 +31,9 @@
 |23/02/17|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/3dc21bf7140db0e305df481d3dd6142540644820)|원형 인벤토리 완성, 보스몹 포효 이벤트, 버그 픽스 등|-|
 |23/02/18|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/cde4783e19d3ac4d8fc72a9cc1369e521bf494bb)|인게임 UI 이미지 추가, 버프/디버프 버그 픽|-|
 |23/02/19|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/f70310ab6a55175898d1f17179580947b1540cea)|병합 작업, 버그 픽스|-|
+|23/02/20|[BackStreet🌆]()||-|
+|23/02/20|[BackStreet🌆](https://github.com/SSU-BackStreet/UE5-BackStreet/pull/61)|인벤토리, 인게임 UI 기능 추가, 버그 수정 등|-|
+
 
 </div>
 
