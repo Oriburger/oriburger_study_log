@@ -36,6 +36,7 @@
 |23/02/22|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/359497063fb0b5e7e566f010d55bb87f61088d66)|인벤토리, AI, 아이템 박스 버그 수정|-|
 |23/02/23|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/63aa542a00330451ef440da311c181747bde2584)|AI/버프 오류 수정, 드롭템 및 아이템 박스 개선 등|-|
 |23/02/24|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/973cf522ef45a688fedca7fbb83f45211bf31b62)|마우스 버그 수정, 근접 전투 개선, 슬로우 디버프 버그 수정, 밸런스 조절 등|-|
+|23/02/25|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/973cf522ef45a688fedca7fbb83f45211bf31b62)|AI 네비메시 오류 수정, 밸런스 조절 등|-|
 
 
 </div>
