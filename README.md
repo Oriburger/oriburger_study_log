@@ -37,6 +37,7 @@
 |23/02/23|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/63aa542a00330451ef440da311c181747bde2584)|AI/버프 오류 수정, 드롭템 및 아이템 박스 개선 등|-|
 |23/02/24|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/973cf522ef45a688fedca7fbb83f45211bf31b62)|마우스 버그 수정, 근접 전투 개선, 슬로우 디버프 버그 수정, 밸런스 조절 등|-|
 |23/02/25|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet/commit/973cf522ef45a688fedca7fbb83f45211bf31b62)|AI 네비메시 오류 수정, 밸런스 조절 등|-|
+|23/02/26-27|[BackStreet🌆](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/63664b45a1db3401e684160bf6af98157734be68)|공모전 제출 빌드 파일|+ 발표자료 준비|
 
 
 </div>
