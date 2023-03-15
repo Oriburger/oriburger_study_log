@@ -19,6 +19,8 @@
 |23/03/09-10|[terminal-maze🧩](https://github.com/Oriburger/terminal-maze/commit/21c0fcce72a80e7cf8850044539a95ad117a5522)|DX11 장치 초기화, 미로 알고리즘 완성|DX 이론 어렵다|
 |23/03/11|BOJ 14225|hash set|알바|
 |23/03/12|BOJ 10825|정렬|-|
+|23/03/15|BOJ 10994|구현|-|
+||*BOJ 17265(~ing)*|DP|-|
 
 </div>
 
