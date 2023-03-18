@@ -21,7 +21,7 @@
 |23/03/12|BOJ 10825|정렬|-|
 |23/03/15|BOJ 10994|구현|-|
 |23/03/16|BOJ 17265|DFS|-|
-|23/03/18|[terminal-maze🧩](https://github.com/Oriburger/terminal-maze)|무기력..|
+|23/03/18|[terminal-maze🧩](https://github.com/Oriburger/terminal-maze)|PCH 및 예제 코드 추가|무기력.. / DX SDK는 왜이래?!|
 </div>
 
 <!--
