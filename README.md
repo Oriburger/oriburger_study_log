@@ -21,7 +21,7 @@
 |23/03/12|BOJ 10825|정렬|-|
 |23/03/15|BOJ 10994|구현|-|
 |23/03/16|BOJ 17265|DFS|-|
-
+|23/03/18|[terminal-maze🧩](https://github.com/Oriburger/terminal-maze)|무기력..|
 </div>
 
 <!--
