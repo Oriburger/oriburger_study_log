@@ -26,11 +26,14 @@
 |23/03/20|BOJ 1913|구현|-|
 |23/03/22|BOJ 16435|정렬|-|
 ||genetic_tsp|기본 유전 알고리즘 구현|geeks for geeks 참고|
-|23/03/24|BOJ 25314|기|-|
+|23/03/24|BOJ 25314|기초|-|
 |23/03/25|BOJ 20044|구현|-|
 |23/03/26|[dx11-maze-game](https://github.com/Oriburger/dx11-maze-game/commit/c49a473d8bafd2b540a082b38d30ca13565ac9ac)|swap chain 생성|프로젝트명 변경|
 |23/03/27|[Backstreet](https://github.com/Oriburger/UE5-BackStreet-Mirror/commit/0cbf83bf2f4f67afe291982c63b6c7d6a9b51480)|어빌리티 시스템|버프 시스템 제거(~ing)|
-|23/03/28|
+|23/03/29|[dx11-maze-game](https://github.com/Oriburger/dx11-maze-game/commit/7b70f124612aa70a51b9f5475a878615d747c580)|WinAPI 기능 추가 (~ing)|-|
+|23/03/30|BOJ 27886|문자열|-|
+|23/03/31|[oriburger-genetic-tsp](https://github.com/Oriburger/oriburger_genetic_tsp/commit/e05a3bd5f694dd1de859e76d3002ba30976388fe)|기본 연산 구현 완료 등|A*는 어디에?|
+
 
 </div>
 
